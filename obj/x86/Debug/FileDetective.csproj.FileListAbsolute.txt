@@ -1,0 +1,9 @@
+D:\JIBRAN\Applications\FileDetective\FileDetective\bin\Debug\FileDetective.exe
+D:\JIBRAN\Applications\FileDetective\FileDetective\bin\Debug\FileDetective.pdb
+D:\JIBRAN\Applications\FileDetective\FileDetective\obj\x86\Debug\FileDetective.Form1.resources
+D:\JIBRAN\Applications\FileDetective\FileDetective\obj\x86\Debug\FileDetective.Properties.Resources.resources
+D:\JIBRAN\Applications\FileDetective\FileDetective\obj\x86\Debug\FileDetective.exe
+D:\JIBRAN\Applications\FileDetective\FileDetective\obj\x86\Debug\FileDetective.pdb
+D:\JIBRAN\Applications\FileDetective\FileDetective\obj\x86\Debug\FileDetective.advanced.resources
+D:\JIBRAN\Applications\FileDetective\FileDetective\obj\x86\Debug\FileDetective.csproj.GenerateResource.Cache
+D:\JIBRAN\Applications\FileDetective\FileDetective\obj\x86\Debug\FileDetective.csprojResolveAssemblyReference.cache
